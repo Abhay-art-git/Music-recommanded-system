@@ -23,3 +23,4 @@ The project leverages **machine learning** and **recommendation algorithms** suc
   - `surprise` → Recommendation algorithms  
   - `matplotlib`, `seaborn` → Data visualization  
 
+credit by : likhita , neha and vidhi 
